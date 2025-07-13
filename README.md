@@ -2,6 +2,7 @@
 
 [![Java](https://img.shields.io/badge/Java-17%2B-blue)](https://java.com)
 [![Telegram Bot](https://img.shields.io/badge/Telegram%20Bot-API-brightgreen)](https://core.telegram.org/bots/api)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 TinderBolt - интеллектуальный Telegram-бот для знакомств, который использует ChatGPT для генерации:
 - Привлекающих внимание открывающих сообщений 🎯
