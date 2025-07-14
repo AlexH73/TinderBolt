@@ -3,6 +3,8 @@
 [![Java](https://img.shields.io/badge/Java-17%2B-blue)](https://java.com)
 [![Telegram Bot](https://img.shields.io/badge/Telegram%20Bot-API-brightgreen)](https://core.telegram.org/bots/api)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Release](https://img.shields.io/github/release/AlexH73/TinderBolt.svg)](https://github.com/AlexH73/TinderBolt/releases)
+
 
 TinderBolt - интеллектуальный Telegram-бот для знакомств, который использует ChatGPT для генерации:
 - Привлекающих внимание открывающих сообщений 🎯
@@ -41,7 +43,18 @@ OPENAI_API_KEY=your_openai_api_key
 ```bash
 mvn exec:java -Dexec.mainClass="com.javarush.telegram.TinderBoltApp"
 ```
+## 🚀 Быстрый старт
+1. Создайте бота в [@BotFather](https://t.me/BotFather)
+2. Получите API-ключ на [OpenAI](https://platform.openai.com/)
+3. Клонируйте репозиторий:
 
+```bash
+git clone https://github.com/AlexH73/TinderBolt.git
+```
+4. Запустите бота:
+```bash
+mvn exec:java -Dexec.mainClass="com.javarush.telegram.TinderBoltApp"
+```
 ## ⚙️ Технологии
 - Java 17
 - Telegram Bot API
